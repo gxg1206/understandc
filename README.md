@@ -1,2 +1,2 @@
-# c01
-初始c语言
+#inculde  <stdio.h>
+int main()
