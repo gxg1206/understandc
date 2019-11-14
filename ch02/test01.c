@@ -7,7 +7,6 @@ int main ()
 	scanf("%d",&x);
 	printf("整数y：" );
 	scanf("%d",&y);
-
 	printf("x的值是y的 %f%%\n",(double)x/y*100);
 	return 0;
 }
